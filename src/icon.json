@@ -1,0 +1,27 @@
+
+[
+    {
+        "name": "My Bio",
+        "pic": "MyBio"
+    },
+    {
+        "name": "Resume",
+        "pic": "Resume"
+    },
+    {
+        "name": "Mail",
+        "pic": "Mail"
+    },
+    {
+        "name": "Project",
+        "pic": "Project"
+    },
+    {
+        "name": "Read Me",
+        "pic": "ReadMe"
+    },
+    {
+        "name": "MSN",
+        "pic": "MSN"
+    }
+]
